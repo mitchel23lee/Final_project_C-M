@@ -1404,7 +1404,7 @@ content: flex center;
 # Pricing
 --------------------------------------------------------------*/
 .pricing .box {
- 
+  justify-content: ;
   padding: 40px 20px;
   text-align: center;
   border-radius: 8px;
